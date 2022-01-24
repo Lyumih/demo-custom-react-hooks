@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.app {
+  padding: 30px;
+}
+
+.app.dark {
+  background-color: #000;
+  color: white;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 5px;
+  border:0;
+  background: antiquewhite;
+}
+
+.input {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  background: aliceblue;
+}
+
+.list-item {
+  margin-top: 10px;
+  list-style: none;
+}
